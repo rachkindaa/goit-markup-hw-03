@@ -173,6 +173,7 @@ img {
 
 .button {
     display: block;
+    margin: auto;
     padding: 16px 32px;
     border-radius: 4px;
    
@@ -219,7 +220,6 @@ img {
 .feature-list {
     display: flex;
     gap: 24px;
-
 }
 
 .feature-list .item {
@@ -258,8 +258,9 @@ img {
     letter-spacing: 0.02em;
 }
 
-.doing {
+.section.doing {
     padding-bottom: 120px;
+    padding-top: 0;
 }
 
 .doing .section-title {
@@ -401,7 +402,7 @@ footer {
     margin-bottom: 0;
 }
 
-.gallery {
+.section.gallery {
     padding: 96px 0 120px;
 }
 
@@ -415,9 +416,3 @@ footer {
 .section {
     padding: 120px 0;
 }
-
-.section.no-padding {
-    padding-top: 0;
-    padding-bottom: 0;
-}
-
