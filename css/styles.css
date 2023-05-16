@@ -164,6 +164,7 @@ img {
 } 
 
 .hero .button {
+    display: block;
     margin: auto;
     min-width: 169px;
     height: 56px;
@@ -198,7 +199,7 @@ img {
 
 .section-title {
     /* padding-bottom: 72px; */
-    padding-top: 120px;
+    /* padding-top: 120px; */
     margin: 0;
 
     color: var(--title-text-color);
@@ -211,7 +212,7 @@ img {
 }
 
 .features {
-    margin-top: 120px;
+    /* margin-top: 120px; */
     padding: 120px 0;
 }
 
