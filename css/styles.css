@@ -328,8 +328,6 @@ img {
 
 .text.footer {
     width: 264px;
-    padding-bottom: 100px;
-    padding-top: 16px;
     margin-bottom: 0;
 
     color: var(--light-text-color);
