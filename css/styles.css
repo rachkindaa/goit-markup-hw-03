@@ -352,6 +352,7 @@ footer {
     margin: auto;
     justify-content: center;
     gap: 24px;
+    margin-bottom: 72px;
 }
 
 .buttons-list .button {
@@ -375,7 +376,6 @@ footer {
     display: flex;
     flex-wrap: wrap;
     width: 1128px;
-    margin-top: 72px;
     margin-left: auto;
     margin-right: auto;
 }
